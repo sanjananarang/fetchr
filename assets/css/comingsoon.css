@@ -1,0 +1,73 @@
+body {
+  width: 721px;
+  height: 800px;
+  background-color: #FC4155; 
+  overflow-y: hidden;				/* Scroll bars disable */
+  overflow-x: hidden;
+  }
+  
+.logo {
+  height: 83px;
+  width: 227px;
+}
+
+.intro {
+  height: 300px;
+  width: 630px;
+  color: #FFF;
+  font-family: 'Avenir';
+  font-size: 13px;
+  font-weight: 30;
+  letter-spacing: 0.80px;
+  line-height: 35px;
+  margin: 10px;
+}
+
+.subscribe {
+  position: relative;
+  left: 10px;
+  height: 80px;
+  width: 582px;
+  color: #FFF;
+  font-family: 'Avenir';
+  font-size: 25px;
+  font-weight: 300;
+  letter-spacing: 0.83px;
+  line-height: 34px;
+}
+
+.container {
+  height: 35px;
+  width: 500px;
+  border-radius: 20px;
+  background-color: #FFF;
+  font-family: Avenir;
+  font-size: 22px;
+
+}
+  
+ .click { 
+  width: 90px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #FC4155;
+  border: solid #FC4155;
+  color: #FFF;
+}
+
+.promise {
+  position: relative;
+  left: 60px;
+  height: 38px;
+  width: 220px;
+  color: #FFF;
+  font-family: 'Avenir';
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 0.67px;
+  line-height: 27px;
+}
+
+.key {
+  text-align: right;
+}
